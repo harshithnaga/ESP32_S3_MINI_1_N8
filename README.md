@@ -37,8 +37,8 @@ Open with [KiCad](https://www.kicad.org/) (free, open-source EDA software) versi
 
 ## License
 
-<!-- e.g., CC BY 4.0 or CERN-OHL-S are common for open hardware designs -->
+CC BY 4.0 or CERN-OHL-S are common for open hardware designs
 
 ## Author
 
-<!-- C. Harshith Naga-->
+C. HARSHITH NAGA
